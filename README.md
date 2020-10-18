@@ -17,26 +17,26 @@
 
 ## Screenshots
 
-**CMD** <br>
-<img src="./images/server.JPG" height="100" width="400">
+**CMD**
+![Server](/images/server.JPG?raw=true "Server")
 
-**Home** <br>
-<img src="./images/home.JPG" height="350" width="520">
+**Home** 
+![Home](/images/home.JPG?raw=true "Home")
 
-**Product** <br>
-<img src="./images/product.JPG" height="350" width="520">
+**Product** 
+![Product](/images/product.JPG?raw=true "Product")
 
-**Transaction** <br>
-<img src="./images/transaction.JPG" height="350" width="520">
+**Transaction**
+![Transaction](/images/transaction.JPG?raw=true "Transaction")
 
-**Transaction ID** <br>
-<img src="./images/transactionid.JPG" height="350" width="520">
+**Transaction ID** 
+![Transaction ID](/images/transactionid.JPG?raw=true "Transaction ID")
 
-**Transaction Summary By Product** <br>
-<img src="./images/transactionsummarybyproduct.JPG" height="350" width="520">
+**Transaction Summary By Product** 
+![Transaction Summary By Product](/images/transactionsummarybyproduct.JPG?raw=true "Transaction Summary By Product")
 
-**Transaction Summary By Manufacture City** <br>
-<img src="./images/transactionsummarybycity.JPG" height="350" width="520">
+**Transaction Summary By Manufacturing City** 
+![Transaction Summary By Manufacturing City](/images/transactionsummarybycity.JPG?raw=true "Transaction Summary By Manufacturing City")
 
 **Unit Tests**
-<img src="./images/test.JPG" height="350" width="520">
+![Unit Tests](/images/test.JPG?raw=true "Unit Tests")
