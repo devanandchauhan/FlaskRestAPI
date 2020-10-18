@@ -1,5 +1,5 @@
-# Assignment
-[![CI Status](https://travis-ci.org/devanandchauhan/FlaskRestAPI.svg?branch=main)](https://travis-ci.org/devanandchauhan/FlaskRestAPI)
+# Assignment [![CI Status](https://travis-ci.org/devanandchauhan/FlaskRestAPI.svg?branch=main)](https://travis-ci.org/devanandchauhan/FlaskRestAPI)
+This application creates REST API using Flask-restAPI in Python 
 
 ## Assignment Environment:
 1. This application populates and provides retrieval features for transactions of a company.
