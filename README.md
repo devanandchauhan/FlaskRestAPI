@@ -1,4 +1,5 @@
 # Assignment
+[![CI Status](https://travis-ci.org/devanandchauhan/FlaskRestAPI.svg?branch=main)](https://travis-ci.org/devanandchauhan/FlaskRestAPI)
 
 ## Assignment Environment:
 1.This application populates and provides retrieval features for transactions of a company.
