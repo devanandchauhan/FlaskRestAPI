@@ -7,4 +7,6 @@ install:
   
 # command to run tests
 script:
+  - SET FLASK_APP=main.py
+  - flask run
   - pytest test.py
